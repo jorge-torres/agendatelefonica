@@ -13,12 +13,3 @@ while volver == 1:
     if volver == 2:
         break
 
-
-
-
-
-
-
-
-
-
